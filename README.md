@@ -9,6 +9,9 @@
 * Excluir (Modo seguro)
 * Excluir (Definitivo)
 * Alterar 
+* Listar um, por identificador do modelo
+* Listar Todos (Páginado, não Páginado)
+* Listar Todos com Filtro (Um ou mais filtros e páginado)
 
 ## Serviço Base
 
