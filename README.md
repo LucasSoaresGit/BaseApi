@@ -21,13 +21,15 @@
   > Modelo
   
   > Repositório
+ * Metodos primários de acordo com o repositório (Criar, Editar, Excluir, Alterar)
+
 
 ## Controladora Base
 
 ###### Métodos
 
 * Resposta e códigos
-* Padronizar metodos primários de acordo com o repositório (Criar, Editar, Excluir, Alterar)
+* Metodos primários de acordo com o repositório (Criar, Editar, Excluir, Alterar)
 
 ## Entidades Base 
 
