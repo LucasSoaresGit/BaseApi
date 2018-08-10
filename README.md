@@ -15,8 +15,8 @@
 ###### Métodos
 
 * Construtor
-* Modelo
-* Repositório
+>  Modelo
+>  Repositório
 
 ## Controladora Base
 
@@ -24,3 +24,9 @@
 
 * Resposta e códigos
 * Padronizar metodos primários de acordo com o repositório (Criar, Editar, Excluir, Alterar)
+
+## Entidades Base 
+
+* Usuario
+* Perfil
+* Acessos
