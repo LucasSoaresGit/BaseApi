@@ -15,9 +15,9 @@
 ###### Métodos
 
 * Construtor
-  * Modelo
+  > Modelo
   
-  * Repositório
+  > Repositório
 
 ## Controladora Base
 
